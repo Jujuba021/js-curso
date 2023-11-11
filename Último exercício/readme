@@ -1,0 +1,6 @@
+Esse foi o último exercício de um curso básico de javascript.
+
+É  um analisador de números, onde você pode inserir quantos números quiser, ele dirá quantos você colocou.
+Também vai dizer qual o maior e menor número, fará a soma e a média deles.
+
+A única coisa que não consegui implementar nele foi a função para bloquear números repetidos, devo tentar de novo algum dia.
